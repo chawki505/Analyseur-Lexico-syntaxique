@@ -1,0 +1,10 @@
+programme test1;
+const Z=10;
+			Y=vrai
+var a1:ent;
+		b1:bool
+debut
+	si b1 alors
+		b1 := 10
+	fsi
+fin
